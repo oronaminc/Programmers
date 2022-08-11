@@ -6,6 +6,7 @@
 ![python](https://user-images.githubusercontent.com/37185394/184143456-e768c106-4494-49dc-821c-67915b8e6d3e.png)
 
 ## Contents
+[![Gem Version](https://img.shields.io/static/v1.svg?label=algorithm&message=dfs&color=blue)](https://badge.fury.io/rb/colorls)
 
 | Index | Folder Name | Description | URL |
 | ----- | ------ | ------ | ------ |
