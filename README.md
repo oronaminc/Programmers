@@ -13,10 +13,7 @@
 | 3.    | goorm | python cos pro 2급 시험을 위한 문제를 풀었던 공간입니다 | [goorm][백준]
 | 4.    | practice | python 자료구조 및 문법 학습을 위한 공간입니다 | [practice][백준]
 
-[백준]: <http://angularjs.org>
-[PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-[PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-[PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-[PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-[PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-[PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
+[백준]: <https://www.acmicpc.net/>
+[exam]: <https://wikidocs.net/book/1>
+[goorm]: <https://edu.goorm.io/lecture/17033/cos-pro-2%EA%B8%89-%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C-python/>
+[practice]:<https://algolabs.modoo.at/?link=3b5d98fa&messageNo=1&mode=view&query=&queryType=0&myList=0&page=1>
