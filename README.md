@@ -1,22 +1,17 @@
-# 알고리즘 문제풀이
+# Algorithm Problem Solving
 2022-01-01 ~ 2022-07-31 까지 풀어본 알고리즘 문제풀이를 올려놓은 공간입니다
 
-## 개발 언어
+## Programming Language
 ![python](https://user-images.githubusercontent.com/37185394/184143456-e768c106-4494-49dc-821c-67915b8e6d3e.png)
 
-## 목차
-1. [백준] - 별찍기
-2. [goorm] - 알고리즘 
+## Contents
 
 | Index | Folder Name | Description | URL |
 | ----- | ------ | ------ | ------ |
-| 1.    | beakjoon | 백준에서 푼 문제들이 있습니다 | [백준누누눈][백준]
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| 1.    | beakjoon | 백준에서 푼 문제들을 모아둔 곳입니다 | [백준][백준]
+| 2.    | exam | python 자료구조 및 문법 시험을 본 공간입니다 | [exam][백준]
+| 3.    | goorm | python cos pro 2급 시험을 위한 문제를 풀었던 공간입니다 | [goorm][백준]
+| 4.    | practice | python 자료구조 및 문법 학습을 위한 공간입니다 | [practice][백준]
 
 [백준]: <http://angularjs.org>
 [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
