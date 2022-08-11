@@ -1,7 +1,8 @@
-# Algorithm Problem Solving
+# Algorithm Problem Solving 
 2022-01-01 ~ 2022-07-31 까지 풀어본 알고리즘 문제풀이를 올려놓은 공간입니다
 
 ## Programming Language
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 ![python](https://user-images.githubusercontent.com/37185394/184143456-e768c106-4494-49dc-821c-67915b8e6d3e.png)
 
 ## Contents
