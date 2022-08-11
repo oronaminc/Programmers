@@ -8,3 +8,5 @@ python
 2. [goorm] - 알고리즘 
 
 Programmers and KAKAO problems
+
+[백준]: <http://angularjs.org>
